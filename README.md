@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alexej
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning math and algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... nothing
+- 📫 How to reach me ... dont
 
 <!---
 Alexej/Alexej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
