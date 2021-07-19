@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexej
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning math and algorithms
+- 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... dont
 
