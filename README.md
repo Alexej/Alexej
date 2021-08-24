@@ -2,7 +2,7 @@
 - 👀 I’m interested in women
 - 🌱 I’m currently learning math and computergraphics
 - 💞️ I’m looking to collaborate on ... later
-- 📫 How to reach me ... dont
+- 📫 How to reach me ... nah
 
 <!---
 Alexej/Alexej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
