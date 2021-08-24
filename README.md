@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexej
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on ... nothing
+- 👀 I’m interested in women
+- 🌱 I’m currently learning math and computergraphics
+- 💞️ I’m looking to collaborate on ... later
 - 📫 How to reach me ... dont
 
 <!---
